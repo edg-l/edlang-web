@@ -1,0 +1,11 @@
+[book]
+authors = ["Edgar Luque"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The edlang programming language"
+description = "Experimental statically-typed compiled programming language made with LLVM and Rust."
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
